@@ -1,0 +1,31 @@
+body{
+    align-items: center;
+    background-image: url("lib.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+    position: fixed;
+}
+p{
+    color:#FFCCBC;
+     font-family: 'Pattaya', sans-serif;
+     animation-name: exp;
+      position: relative;
+}
+h1{
+    color:#FFCCBC;
+    font-family: 'Pattaya', sans-serif;
+    animation-name: exp;
+     position: relative;
+}
+h2{
+    color:#FFCCBC;
+    font-family: 'Pattaya', sans-serif;
+    animation-name: exp;
+     position: relative;
+}
+td,tr{    color:#FFCCBC;
+    font-family: 'Pattaya', sans-serif;
+    animation-name: exp;
+     position: relative;}
